@@ -1,0 +1,39 @@
+.search-list__item{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.page__header{
+    display: flex;
+    flex-grow: 1;
+    justify-self: center;
+}
+
+.search-list__header{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.track-widget__description{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.bar{
+    display: flex;
+    flex-direction: column;
+}
+
+.bar__track{
+    display: flex;
+}
+
+
+

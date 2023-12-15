@@ -1,0 +1,6 @@
+.page {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-rows: repeat(10 1fr);
+}
+
